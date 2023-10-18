@@ -1,6 +1,6 @@
 # Text to SQL Query Using Hugging Face's LLAMA
 
-![GitHub License](https://img.shields.io/github/license/aishwaryapirankar/Text-to-SQL-Query-using-LLAMA)
+![GitHub License](https://img.shields.io/github/license/aishwaryapirankar/Text-to-SQL-query-using-Hugging-Face)
 
 This project is an application that leverages Hugging Face's LLAMA, a state-of-the-art language model, to convert natural language text into structured SQL queries. It's designed to assist users in generating SQL queries more easily and efficiently.
 
@@ -27,7 +27,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/aishwaryapirankar/Text-to-SQL-Query-using-LLAMA.git
+   git clone https://github.com/aishwaryapirankar/Text-to-SQL-query-using-Hugging-Face.git
    ```
 
 2. Change the working directory to the project folder:
@@ -78,6 +78,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Simplify your SQL query generation with Hugging Face's LLAMA! If you have any questions or run into any issues, feel free to [contact us](mailto:your-email@example.com).
+Simplify your SQL query generation with Hugging Face's LLAMA!
 
-© 2023 Your Name
+© 2023 Aishwarya Pirankar
